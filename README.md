@@ -26,7 +26,7 @@ Install the necessary libraries using the following command:
 ```bash
 pip install -r requirements.txt
 ```
-How to Run:
+## How to Run:
 
 1.Download the Dataset:
 	Download the dataset from the Kaggle dataset page.
