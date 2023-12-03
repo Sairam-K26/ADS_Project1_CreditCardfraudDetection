@@ -41,7 +41,7 @@ The script contains the following phases of the project:
 	Model Evaluation: Evaluating the model's performance using precision, recall, F1-score, and ROC AUC.
 
 
-Acknowledgments
+##Acknowledgments
 
 We acknowledge the Kaggle community and contributors for providing the dataset used in this project.
  Special thanks to the scikit-learn and other open-source libraries for their valuable tools and resources.
