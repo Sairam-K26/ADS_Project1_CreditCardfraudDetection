@@ -1,5 +1,5 @@
 # ADS_Project1_CreditCardfraudDetection
-Naan Mushalvan Applied Data Science Tasks
+Naan Mudhalvan Applied Data Science Tasks
 # Credit Card Fraud Detection
 
 ## Overview
